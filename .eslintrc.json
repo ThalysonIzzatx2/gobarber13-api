@@ -24,6 +24,8 @@
     ],
     "rules": {
       "prettier/prettier": "error",
+      "class-methods-use-this": "off",
+      "@typescript/camelcase": "off",
       "import/extensions": [
         "error",
         "ignorePackages",
